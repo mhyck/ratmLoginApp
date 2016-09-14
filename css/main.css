@@ -1,6 +1,12 @@
+
+.row {
+	height: 500px;
+}
+
 .container {
   text-align: center;
-  background-color: #1a1a1a;
+  background-image: url(../img/redstar.jpg);
+  
 }
 
 #login {
