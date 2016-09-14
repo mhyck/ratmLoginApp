@@ -1,0 +1,24 @@
+.container {
+  text-align: center;
+  background-color: #1a1a1a;
+}
+
+#login {
+  color: #fff;
+}
+
+#message {
+  color: #fff;
+}
+
+#username {
+  width:80%;
+}
+
+#password {
+  width:80%;
+}
+
+#log {
+  width: 50%;
+}
